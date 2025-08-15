@@ -48,6 +48,6 @@ ls /usr/lib/jvm
    `New Item → Freestyle Project`
 
 2. Configure the job:
-   - **Source Code Management**: Git
+   - **Source Code Management**: none
    - **Build Tool**: Maven
    - **JDK**: `JDK_11`
