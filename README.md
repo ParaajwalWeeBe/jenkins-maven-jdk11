@@ -20,8 +20,9 @@ This repository documents the setup of a Jenkins Freestyle job to build a Maven 
 ```bash
 apt-get update
 apt-get install -y openjdk-11-jdk
-'''
+```
 
+Verify:
 ```bash
 ls /usr/lib/jvm
 # java-11-openjdk-arm64
